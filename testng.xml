@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/SOREMI TAIWO OLAMIDE/Documents/FOODCO_AUTOMATION_TEST_POM"><classes><class name="home.HomeTests"><methods><include name="testFoodCoApp"/></methods></class></classes></test></suite>
